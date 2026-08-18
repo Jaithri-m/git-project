@@ -3,3 +3,9 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: rgb(48, 20, 108);
 }
+
+ .navbar {
+            background: linear-gradient(90deg, #0d6efd, #139068);
+            padding: 15px 0;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
